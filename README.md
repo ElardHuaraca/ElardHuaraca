@@ -1,5 +1,3 @@
-# 👨‍💻 **Elard Huaraca**  
-
 ¡Hola! Soy **Elard Huaraca**, un desarrollador backend apasionado por crear soluciones robustas, eficientes y escalables. 🚀  
 
 ---
@@ -7,7 +5,8 @@
 ## 🛠️ **Tecnologías y Herramientas**  
 
 ### ⚙️ **Backend**  
-- **Frameworks**: `Laravel`, `Spring Boot`  
+- **Entornos de Desarrollo**: `Node.js`  
+- **Frameworks**: `Laravel`, `Spring Boot` , `ExpressJS`
 - **Lenguajes**: `PHP`, `Java`, `JavaScript`, `TypeScript`  
 
 ### 🎨 **Frontend**  
